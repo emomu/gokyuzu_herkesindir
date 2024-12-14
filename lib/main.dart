@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:gokyuzu_herkesindir/config/routes/routes.dart';
-import 'package:gokyuzu_herkesindir/screens/splash/splash_screen.dart';
 import 'package:gokyuzu_herkesindir/utils/scale_config.dart';
 
 void main() {
